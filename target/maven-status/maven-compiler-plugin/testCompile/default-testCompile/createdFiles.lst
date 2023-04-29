@@ -1,0 +1,4 @@
+pages\amazonPage.class
+common\amazonBase.class
+steps\searchProducts.class
+runner\TestRunner.class
