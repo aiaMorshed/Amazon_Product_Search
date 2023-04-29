@@ -45,7 +45,7 @@ public class searchProducts extends amazonBase {
 	public void i_can_see_the_search_result_successfully() {
 	
 		
-		System.out.println("My Name Is Morshed");   
+		
 	}
  
  
