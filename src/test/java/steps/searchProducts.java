@@ -43,8 +43,10 @@ public class searchProducts extends amazonBase {
 
 	@Then("I can see the search result successfully")
 	public void i_can_see_the_search_result_successfully() {
-	   
+	
+		
+		System.out.println("My Name Is Morshed");   
 	}
-
-
+ 
+ 
 }
